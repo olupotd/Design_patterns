@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/commons-fileupload-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="/home/new/Documents/.apache-tomcat-6.0.39/lib/annotations-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql-connector-java-5.1.16.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql-connector-java.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mysql.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
