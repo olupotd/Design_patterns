@@ -6,7 +6,6 @@ This is a readme file for a java chat application that allows all users to unive
 	-> Allows a user to signup and send chat messages to all online users.
 	->lets a connected user know who has joined or left the chatroom
 	->allows a user to read messages depending on the number it came in at for 		  example i can request for the first message sent ever by clicking on the getLog 	    button and typing in 1. This retrives the first message ever registered on the 		  system.
-	->to exit, simply Click on the Exit button and let the server kow about your 		  termination. 
 
 to run the files, run the jar files like this
 Open Terminal and type in.
